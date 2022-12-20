@@ -1,1 +1,4 @@
 answer
+git-revert - Revert some existing commits
+we use git-revert to cancel new or uncommitted changes also
+we use git-revert to rollback 
